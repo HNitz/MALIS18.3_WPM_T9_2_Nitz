@@ -18,7 +18,9 @@ werden, sodass diese Daten zum Zweck zukünftiger Aktivitäten erhalten bleiben.
 
 ## Vorgehen / Plan für Code
 
-Import von Daten aus SQL- und Access-Datenbanken
+Pfad zu Access- und SQL-Datenbanken hinterlegen
+
+Import der Daten aus SQL- und Access-Datenbanken
 
 Liste generieren: alle Projekte werde mit Auslaufdatum in chronologischer Reihenfolge angezeigt
 
