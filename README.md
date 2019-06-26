@@ -29,3 +29,11 @@ alle zu löschenden Datensätze werden rot und als "Projektdauer abgelaufen, Lö
 Mitarbeiter wird zum Autorisieren der Löschung aller betroffenen Datensätze aufgefordert 
 
 Datensatz wird mit Meldung "gelöscht" und Datum der Löschung gekennzeichnet
+
+## Praktische Umsetzung
+
+Mitarbeiter können das Lösch-Tool über eine Anwendung auf dem Desktop aktivieren. Sie bekommen von den dahinter liegenden Datenbanken nichts mit.
+
+Offene Fragen:
+
+wie wird dieser Code Realität?
