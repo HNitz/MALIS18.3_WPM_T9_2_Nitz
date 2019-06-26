@@ -1,3 +1,5 @@
+## Lösch-Tool (Datenschutz)
+
 ## Ziel
 
 Es soll ein internes Tool erstellt werden, mit dem sich die Einhaltung der neuen Datenschutz-Grundverordnung effizient und 
