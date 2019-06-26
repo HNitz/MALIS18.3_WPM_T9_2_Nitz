@@ -22,7 +22,7 @@ Import von Daten aus SQL- und Access-Datenbanken
 
 Liste generieren: alle Projekte werde mit Auslaufdatum in chronologischer Reihenfolge angezeigt
 
-Code erkennt automatisch anhand des hinterlegten Datums für das Projektende, welche Datensätze gelöscht werden müssen - dies wird für einen Vorgang codiert und dann eine Schleife eingebaut
+Code erkennt automatisch anhand des hinterlegten Datums für das Projektende, welche Datensätze gelöscht werden müssen - dies wird für einen Vorgang codiert und dann eine Schleife eingebaut, um den Vorgang für alle anderen Datensätze zu wiederholen
 
 alle zu löschenden Datensätze werden rot und als "Projektdauer abgelaufen, Löschen erforderlich" angezeigt 
 
