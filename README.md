@@ -16,7 +16,7 @@ zur Speicherung inhaltlich relevanter Daten, z.B. Kontaktinformationen und Fache
 werden, sodass diese Daten zum Zweck zukünftiger Aktivitäten erhalten bleiben.
 
 
-## Vorgehen / Plan für Code
+## Vorgehen / KOnzept für Code
 
 Pfad zu Access- und SQL-Datenbanken hinterlegen
 
