@@ -18,7 +18,7 @@ werden, sodass diese Daten zum Zweck zukünftiger Aktivitäten erhalten bleiben.
 
 ## Vorgehen / KOnzept für Code
 
-Pfad zu Access- und SQL-Datenbanken hinterlegen
+
 
 Import der Daten aus SQL- und Access-Datenbanken
 
@@ -26,11 +26,7 @@ Liste generieren: alle Projekte werde mit Auslaufdatum in chronologischer Reihen
 
 Code erkennt automatisch anhand des hinterlegten Datums für das Projektende, welche Datensätze gelöscht werden müssen - dies wird für einen Vorgang codiert und dann eine Schleife eingebaut, um den Vorgang für alle anderen Datensätze zu wiederholen
 
-alle zu löschenden Datensätze werden rot und als "Projektdauer abgelaufen, Löschen erforderlich" angezeigt 
 
-Mitarbeiter wird zum Autorisieren der Löschung aller betroffenen Datensätze aufgefordert 
-
-Datensatz wird mit Meldung "gelöscht" und Datum der Löschung gekennzeichnet
 
 ## Praktische Umsetzung
 
