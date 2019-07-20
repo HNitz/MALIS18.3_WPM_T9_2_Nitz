@@ -18,9 +18,7 @@ werden, sodass diese Daten zum Zweck zukünftiger Aktivitäten erhalten bleiben.
 
 ## Vorgehen / KOnzept für Code
 
-
-
-Import der Daten aus SQL- und Access-Datenbanken
+Import der Daten aus SQL- und Access-Datenbanken; aufgrund des fehlenden Zugangs soll hier mit Testdaten gearbeitet werden, um die verwendeten Variablen zu zeigen. 
 
 Liste generieren: alle Projekte werde mit Auslaufdatum in chronologischer Reihenfolge angezeigt
 
